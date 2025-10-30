@@ -120,8 +120,10 @@ Hiệu suất của hệ thống được đánh giá trên 28 ảnh hóa đơn 
 Hệ thống được triển khai thành một ứng dụng web đơn giản bằng **Flask**.
 
 * **Chức năng Upload:** Người dùng có thể tải ảnh hóa đơn trực tiếp lên giao diện.
-
+![Giao diện Upload ảnh hóa đơn](code_project/static/img/upload.png)
 * **Hiển thị kết quả:** Trang kết quả trình bày thông tin trích xuất một cách có tổ chức.
+![Giao diện hiển thị kết quả trích xuất](code_project/static/img/result1.png)
+![Giao diện hiển thị kết quả trích xuất](code_project/static/img/result2.png)
 * **Cảnh báo lỗi:** Các trường thông tin không tìm thấy (`None`) sẽ được **highlight màu đỏ** để người dùng dễ dàng phát hiện và kiểm tra lại.
 
 * **Lưu trữ tự động:** Kết quả trích xuất được tự động lưu vào file `results.csv`, giúp chuẩn hóa đầu ra và phục vụ cho các phân tích sau này.
