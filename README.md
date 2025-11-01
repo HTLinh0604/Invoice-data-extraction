@@ -174,12 +174,6 @@ However, OCR accuracy on financial fields and low-quality images remains limited
 
 ---
 
-## ⚙️ Installation *(Cài đặt)*  
-
-> *(Phần này bạn sẽ tự viết hướng dẫn thiết lập môi trường và chạy project tại đây.)*
-
----
-
 ## 👥 Project Information *(Thông tin Đồ án)*  
 
 This project was developed as part of the **Fundamental Project (Đồ án Cơ sở)** – Semester 1, Academic Year 2024–2025.  
