@@ -1,10 +1,8 @@
 # 🧠 AI Invoice Recognition and Storage Automation  
 *(Ứng dụng Trí Tuệ Nhân Tạo trong Nhận Diện và Tự Động Hóa Lưu Trữ Hóa Đơn)*  
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-Web%20App-black?logo=flask)  
-![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-blue?logo=opencv)  
-![Tesseract](https://img.shields.io/badge/Tesseract-OCR-lightgrey?logo=tesseract)  
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-Web%20App-black?logo=flask) ![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-blue?logo=opencv) ![Tesseract](https://img.shields.io/badge/Tesseract-OCR-lightgrey?logo=tesseract)
+
 
 This project builds an automated system to extract structured information from retail invoices using OCR technology, helping businesses optimize financial and accounting workflows.  
 *(Đồ án này xây dựng một hệ thống tự động trích xuất thông tin có cấu trúc từ hóa đơn bán lẻ bằng công nghệ OCR, giúp doanh nghiệp tối ưu hóa quy trình tài chính và kế toán.)*  
